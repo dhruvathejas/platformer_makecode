@@ -1,0 +1,18 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAPAAAAAAAAAADwAAAAAAAPAAAAEAAAAgIiIAAQAAMCMiIhEBAAAwIyIiAAAAADAjIiIRAQAAACAiIgABAAAAAPAAAAEAAAAAAA8AAAAAAAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player"
+    },
+    "song1": {
+        "data": "0078000408020200001c00010a006400f4016400000400000000000000000000000000050000041e0000000400011b08000c00011e1000140001121400180001251c002000011206001c00010a006400f4016400000400000000000000000000000000000000020c0000000400011e08000c000122",
+        "mimeType": "application/mkcd-song",
+        "displayName": "BG Music",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
